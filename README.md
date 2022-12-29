@@ -8,16 +8,6 @@
 A Simple Pull-To-Refresh Component for React Application with 0 dependency.
 Works for Mobile and Desktop.
 
-## Contributing
-
-⚠️ I don't have much time to take care of the issues at the moment.
-
-🙏 Any help and contribution is greatly appreciated.
-
-## Demo
-
-[Click here 👍](https://thmsgbrt.github.io/react-simple-pull-to-refresh)
-
 ## Installation
 
 `npm i react-simple-pull-to-refresh`
