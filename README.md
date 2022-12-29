@@ -1,6 +1,5 @@
 # react-simple-pull-to-refresh
 
-[![npm version](https://badge.fury.io/js/react-simple-pull-to-refresh.svg)](https://badge.fury.io/js/react-simple-pull-to-refresh)
 [![license](https://img.shields.io/github/license/thmsgbrt/react-simple-pull-to-refresh.svg)](https://github.com/thmsgbrt/react-simple-pull-to-refresh/blob/master/LICENSE)
 ![](https://badgen.net/npm/types/react-simple-pull-to-refresh)
 ![](https://badgen.net/badge/maintained/yes/green)
